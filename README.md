@@ -3,7 +3,7 @@
 - 🔭 Formado em Design Gráfico.
 - 🌱 Estudando para migrar de área e me tornar um Desenvolvedor Front-end.
 
-<div align="center">
+<div align="left">
   <a href="https://www.behance.net/fe_dossantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fe-dossantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-dossantos&layout=compact&langs_count=7&theme=radical"/>
